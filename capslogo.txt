@@ -1,6 +1,5 @@
 REM Implementation based on Lock Me 0.3 by SurfKahuna and 
-REM My notepad is set to font 1 by default
-REM Use Alt+O, F, TAB TAB 1 ENTER to change the font
+REM Sets font to 5
 DELAY 500
 GUI r
 DELAY 300
